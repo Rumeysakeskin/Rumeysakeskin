@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysakeskin&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysakeskin" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rumeysakeskin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rumeysakeskin/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rumeysakeskin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rumeysakeskin/" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=qCY0rc4AAAAJ&hl=tr" target="blank"><img src="https://github.com/Rumeysakeskin/Turkish-Automatic-Speech-Recognition/blob/main/Google%20Scholar%20Icon%20Logo.svg" alt="https://scholar.google.com/citations?user=qCY0rc4AAAAJ&hl=tr" height="30" width="40" /></a>
 </p>
 
