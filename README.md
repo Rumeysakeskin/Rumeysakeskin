@@ -9,5 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeysakeskin&show_icons=true&locale=en&layout=compact" alt="rumeysakeskin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysakeskin&show_icons=true&locale=en" alt="rumeysakeskin" width="40" height="40" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysakeskin&show_icons=true&locale=en" alt="rumeysakeskin" width="200" height="200" /></p>
 
