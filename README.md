@@ -21,5 +21,7 @@
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rumeysakeskin&show_icons=true&locale=en&layout=compact" alt="rumeysakeskin" width="340" /></p> 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumeysakeskin&show_icons=true&locale=en" alt="rumeysakeskin" width="400" /></p>
 
